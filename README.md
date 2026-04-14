@@ -100,6 +100,7 @@ Welcome to our [DePIN (Decentralized Physical Infrastructure Networks)](https://
 - [StackOS](https://www.stackos.io)
 - [Render](https://rendertoken.com)
 - [Akash](https://akash.network)
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware.
 - [Gensyn](https://www.gensyn.ai)
 - [Cudos](https://www.cudos.org)
 - [Flux](https://runonflux.io)
